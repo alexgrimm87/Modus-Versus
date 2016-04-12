@@ -200,6 +200,9 @@ a.mob-menu:visited {
 }
 
 @media (min-width: 320px) and (max-width: 968px) {
+
+@media (min-width: 480px) and (max-width: 968px) {
+
   .main-menu .sub-menu {
     margin-top: 18px;
     display: block;
@@ -293,6 +296,7 @@ a.mob-menu:visited {
   margin-bottom: 53px;
 }
 
+
 @media (max-width: 320px) {
   .content-info {
     text-align: center;
@@ -333,6 +337,7 @@ a.mob-menu:visited {
     font-size: 26px;
   }
 }
+
 
 @media (max-width: 320px) {
   .info h2 {
@@ -450,6 +455,7 @@ a.mob-menu:visited {
     margin-right: 0;
   }
 }
+
 
 @media (max-width: 320px) {
   .yourimage-info {
@@ -640,6 +646,11 @@ a.mob-menu:visited {
   max-height: 120px;
 }
 
+@media (max-width: 480px) {
+  .clients-say-txt {
+    min-height: 120px;
+  }
+}
 
 .clients-say .clients-say-txt:after {
   content: '';
@@ -658,6 +669,7 @@ a.mob-menu:visited {
   font-size: 16px;
   font-weight: bold;
 }
+
 
 @media (max-width: 480px) {
   .clients-say-txt {
@@ -842,6 +854,7 @@ a.mob-menu:visited {
   display: block;
 }
 
+
 @media (max-width: 480px) {
   .jquery-line {
     margin-top: 25px;
@@ -962,6 +975,7 @@ footer .footer-community {
   margin-top: 16px;
 }
 
+<<<<<<< HEAD
 @media (max-width: 320px) {
   .footer-company a {
     font-size: 12px;
@@ -996,6 +1010,7 @@ footer .footer-community ul li a {
   color: white;
 }
 
+<<<<<<< HEAD
 @media (max-width: 320px) {
   .footer-community a {
     font-size: 12px;
